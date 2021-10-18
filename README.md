@@ -1,0 +1,2 @@
+# HCI
+Pertemuan pratikum awal
